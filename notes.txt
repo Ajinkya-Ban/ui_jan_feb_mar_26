@@ -1,0 +1,19 @@
+Explain the basic tags in html?
+----------------------------------------------
+1) p --> paragaraph tag : to provide the static information about product.  
+2) h1 to h6 --> this is the heading tag.
+3) img -->  To take the images on web page we use <img> tag. 
+            Most time we use .jpg, jpeg, .png. .gif and when you put images more than 1 mb size than web page take more time to load. 
+            To solve this problem we use .webp format images.  
+
+            We use different attributes like width, height, src, alt, usemap
+attributes : Extra information about tag is called as attributes or properties.  
+
+
+4) a(anchor): By using this tag we can navigate between pages. 
+Syntax:
+href --> hypertext reference
+
+<a href="path" target=''></a>
+
+
