@@ -13,7 +13,35 @@ attributes : Extra information about tag is called as attributes or properties.
 4) a(anchor): By using this tag we can navigate between pages. 
 Syntax:
 href --> hypertext reference
-
 <a href="path" target=''></a>
+
+5) span: span tag internally works as container. By using span tag we target single element. 
+6) marquee: to move the text from left to right as well as right to left also bottom to top and top to bottom 
+<marquee>
+</marquee>
+
+For the marquee we pass belo attributes
+a) direction : right, left, up, down 
+b) scrollamount : to maintain the speed
+c) onmouseover:
+d) onmouseleave: 
+
+7) pre : It is also called as pre formatted text.  
+
+8) mark : this tag can be used for to heighlight the text. 
+9) sup
+10)sub
+
+Sementic tags
+--------------------------------------
+
+UL and OL Tgas 
+
+
+Table 
+
+Form
+
+
 
 
