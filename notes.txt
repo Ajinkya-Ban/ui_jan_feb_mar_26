@@ -34,13 +34,60 @@ d) onmouseleave:
 
 Sementic tags
 --------------------------------------
+In 2009 google close meta keyword. Meta keyword can be used for to perform SEO.
+In html5, there is new concept intrioduced called as Sementic Tags to perform SEO.
+Sementic tags are those tags which does not required to define. Its name gives us its defination.
+
+The following some Sementic Tags,
+a) <nav></nav>
+b) <header></header> : In this tag we define the name of the company, sometime we define menu.
+c) <footer></footer> : In this tag we define the information about company as well as contact form, sometime we also define extra menus, sometime it define the address of the company. 
+d) <audio></audio> : 
+e) <video></video> : 
+f) <section></section> : It is the replacement for div tag. 
+g) <main></main> : It is the replacement for <body></body>
+h) <aside></aside> : It also called as sidebar.
+
 
 UL and OL Tgas 
+-------------------------------------
+UL --> Unorderd List 
+OL --> Ordered List 
+
+Basically the UL and OL tags are used for to make the menus. There are two types menu 
+a) horizantal menu 
+b) Vertical Menu 
+
+UL:
+---------
+1. In this tag there is no sequance present. 
+2. By default it denotes bulltes.
+3. Inside <ul></ul> tags there is list. List can be denoted by <li></li> tags.
+4. If you want to change the defualt style than you need one attribute called as type. We can change the type as disc, square, circle.
+5. The type attribute is depricated for ul tag. You can handle the type attribute using css, we can use two properties 
+    a) list-style-type or list-style
+    b) list-style-image --> To add image insted of default type. 
 
 
-Table 
+OL
+-----------------------
+1. In this tag there is sequance present. 
+2. By default it denotes number.
+3. Inside <ol></ol> tags there is list. List can be denoted by <li></li> tags.
+4. If you want to change the defualt style than you need one attribute called as type. We can change the type as number, roman number, alphabets.
+5. The type attribute is not depricated for ol tag. You can handle the type attribute using css, we can use two properties 
+    a) list-style-type or list-style
+    b) list-style-image --> To add image insted of default type. 
 
-Form
+
+
+
+Table Tag 
+-------------------------------------
+
+Form tag 
+-------------------------------------
+
 
 
 
